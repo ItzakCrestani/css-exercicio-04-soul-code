@@ -1,0 +1,202 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Noto+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Poppins:ital,wght@0,400;0,700;1,400;1,700&family=Roboto+Mono:ital,wght@0,400;0,700;1,400;1,700&family=Rowdies&display=swap');
+
+body {
+  margin: 0;
+  background-image: linear-gradient(
+    to left,
+    #194074,
+    #fb2d10,
+    #f9a600,
+    #fbfc00,
+    #54fc00,
+    #31aafc,
+    #7051fc,
+    #194175
+  );
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Noto Sans', sans-serif;
+  color: rgb(255, 255, 255);
+  font-style: bold;
+  border: 4px solid #31aafc;
+  width: fit-content;
+  margin: 0% auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding: 8px;
+  border-radius: 20px;
+  background-color: #194175;
+  box-shadow: 6px 6px 4px black;
+}
+
+p {
+  font-family: 'Lato', sans-serif;
+  color: white;
+  font-size: 17px;
+  border: 4px solid #8468ff;
+  width: fit-content;
+  padding: 10px;
+  margin-left: 20px;
+  border-top-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  background-color: #194074;
+  box-shadow: 4px 4px 3px black;
+}
+
+div {
+  width: 100%;
+  height: 500px;
+  margin: 0;
+  border: 1px solid;
+}
+
+.image-1 {
+  background-image: url(images/light-speed-tunnel.gif);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: center;
+  background-color: black;
+}
+
+.gradient-1 {
+  background-image: radial-gradient(
+    at center,
+    white,
+    #a6d5f8 5%,
+    #4786d1 15%,
+    #052873 30%,
+    #124ea3,
+    #041e54
+  );
+}
+
+.image-2 {
+  background-image: url(images/rick-and-morty.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: center;
+}
+
+.gradient-2 {
+  background-image: radial-gradient(
+    at center,
+    #4d8823,
+    #97f165,
+    #14aa00,
+    #57893b,
+    #528b31,
+    black 70%
+  );
+}
+
+.image-3 {
+  background-image: url(images/nyan-cat.gif);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: center;
+}
+
+.gradient-3 {
+  background-image: linear-gradient(
+    to bottom,
+    #194074 10%,
+    #fb2d10,
+    #f9a600,
+    #fbfc00,
+    #54fc00,
+    #31aafc,
+    #7051fc,
+    #194175
+  );
+}
+
+.image-4 {
+  background-image: url(images/doctor-strange.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: center;
+}
+
+.gradient-4 {
+  background-image: radial-gradient(
+    at center,
+    black 40%,
+    #fcf5ac,
+    #e16c2d,
+    black 80%
+  );
+}
+
+.image-5 {
+  background-image: url(images/thanos-portal.gif);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: center;
+}
+
+.gradient-5 {
+  background-image: linear-gradient(
+    to left,
+    #281c1c,
+    #785d5b,
+    #38404c,
+    #040405,
+    #38404c,
+    #785d5b,
+    #281c1c
+  );
+}
+
+.image-6 {
+  background-image: url(images/warp-gate.gif);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: center;
+}
+
+.gradient-6 {
+  background-image: radial-gradient(at center, #000000 30%, #2e0f5a, #cbc0aa);
+}
+
+.image-7 {
+  background-image: url(images/genkidama.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: center;
+}
+
+.gradient-7 {
+  background-image: radial-gradient(at top, white 30%, #0075d0);
+}
+
+.image-8 {
+  background-image: url(images/saitama.gif);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: center;
+}
+
+.gradient-8 {
+  background-image: linear-gradient(
+    to left,
+    #e17d0c,
+    #200204,
+    #ee1704,
+    #360304,
+    #ea1705,
+    #440204,
+    #e92306,
+    #520204,
+    #dc1205
+  );
+}
